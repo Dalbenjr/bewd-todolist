@@ -73,3 +73,6 @@ group :production do
   # Use pg as the database for Active Record
   gem 'pg', '~> 1.4.3'
 end
+
+#Visualize data records
+gem 'rails_admin', '~> 2.2.1'
